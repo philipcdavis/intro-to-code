@@ -1,0 +1,102 @@
+/*This is a CSS Comment.
+You can use it on multiple lines */
+
+/* Styles on html elements */
+body {
+ background-color: white;   
+}
+
+p {
+    font-family: arial, sans-serif;
+    background-color: red;
+    color: white;
+}
+
+/* Styles attached to classes and id's. */
+.myClass {
+    border: 3px solid black;
+    width: 500px;
+}
+
+.centered {
+    width: 400px;
+    margin: 0 auto;
+}
+
+.text-centered {
+    text-align: center;
+}
+
+/* This is an id, only use it with one element per html page */
+#only-once {
+    font-family: fantasy;
+}
+
+/* Multiple elements with the same style */
+
+.similar, .same {
+    background-color: purple;
+}
+
+/* We can get specific with our styles */
+.special {
+    font-weight: bold;
+}
+
+ul li.special {
+    font-size: 20px;
+    color: green;
+    font-family: cursive;
+}
+
+/* We stay specific in case we have other td elements */
+table.table-bordered, table.table-bordered tr td {
+    border: 1px solid green;
+}
+
+
+/* Box Model */
+.box-model {
+    background-color: blue;
+    margin-left: 40px;
+    margin-top: 20px;
+    padding: 15px;
+    border: 1px solid white;
+}
+
+/* Floats and display inline */
+ul.right-nav {
+    float: right;
+}
+
+ul.right-nav li {
+    display: inline;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+/* Important to clear your floats */
+.clearfix {
+clear: both;
+}
+
+/* Psuedo Classes */
+.btn {
+    background-color: #36c7ea;
+    border-radius: 3px;
+    border: 1px solid #1ba5c6;
+    color: white;
+    padding: 3px 15px;
+    outline: none;
+    cursor: pointer;
+    
+}
+
+.btn:hover {
+    background-color: #94daeb;
+}
+
+.btn:active {
+    position: relative;
+    top: 1px;
+}

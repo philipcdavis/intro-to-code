@@ -12,6 +12,7 @@ Know enough HTML, CSS, and JavaScript that:
 * You feel comfortable putting it on your resume.
 * You know whether or not you want to pursue front end development full time.
 * You can begin working on small projects indepentantly. 
+* You aren't intimidated by code. 
 
 ## What is front end development?
 * What you see and interact with on the web. 
