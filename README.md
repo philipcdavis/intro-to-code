@@ -1,14 +1,49 @@
-## Examples of what you can build
-* http://www.nytimes.com/interactive/2012/02/13/us/politics/2013-budget-proposal-graphic.html?_r=0
-* http://todomvc.com/architecture-examples/angularjs/#/
-* http://philipcdavis.github.io/wagonpool/
+## Agenda
+* Goals
+* What is Front End Development
+* Basic Setup
+* HTML
+* CSS
+* JavaScript
+* Mini Project
 
-## Enviroment Setup
-* Text Editor: http://www.activestate.com/komodo-edit
-* Debugger: firebug, or chrome developer tools
+## Goals
+Know enough HTML, CSS, and JavaScript that:
+* You feel comfortable putting it on your resume.
+* You know whether or not you want to pursue front end development full time.
+* You can begin working on small projects indepentantly. 
 
-## Patterns
+## What is front end development?
+* What you see and interact with on the web. 
+* HTML (Content), CSS (Style) and Javascript (Behavior).
+* Can also encompass Content management systems, javascript libraries, and graphic design tools like Photoshop.
+
+## Setup
+* Text Editor - Brakets.io, Sublime Text, Komodo Edit
+* Browser
+* Debugger
+
+## HTML
+* HTML is all about content.
+* Images, Headers, Links, Buttons, Forms.
+* Attributes
+* Syntax Demo
+
+## CSS
+* Making it pretty, CSS is all about style.
+* Importing your styles
+* Classes and IDs.
+* Aesthetic taste is clutch.
+* Responsive Web Design.
+
+## JavaScript
+* Easiest programming language to learn, hard to master.
 * Logic
 * Loops
 * Functions
 * Data
+* Lots of libraries availible.
+
+## Mini Project
+
+
